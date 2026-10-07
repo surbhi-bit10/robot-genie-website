@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect width="48" height="48" rx="14" fill="#EEF2FF"/>
+  <!-- Target / Bullseye for Mission -->
+  <circle cx="24" cy="24" r="14" stroke="#4F46E5" stroke-width="2.5"/>
+  <circle cx="24" cy="24" r="9" stroke="#06B6D4" stroke-width="2"/>
+  <circle cx="24" cy="24" r="4" fill="#4F46E5"/>
+  <path d="M34 14L37 11M33 11L37 11L37 15" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+</svg>

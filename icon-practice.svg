@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect width="48" height="48" rx="14" fill="#ECFEFF"/>
+  <!-- Code brackets / interactive lab -->
+  <path d="M17 19L11 24L17 29" stroke="#0891B2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M31 19L37 24L31 29" stroke="#0891B2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M26 15L22 33" stroke="#4F46E5" stroke-width="2.5" stroke-linecap="round"/>
+</svg>

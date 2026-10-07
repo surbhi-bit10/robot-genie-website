@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect width="48" height="48" rx="14" fill="#F0FDF4"/>
+  <!-- Rocket / Ascent -->
+  <path d="M24 10C24 10 32 15 32 26L28 29L24 26L20 29L16 26C16 15 24 10 24 10Z" stroke="#16A34A" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="24" cy="18" r="2.5" fill="#06B6D4"/>
+  <!-- Wings / Thruster flame -->
+  <path d="M16 26L11 31V34L17 32" stroke="#16A34A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32 26L37 31V34L31 32" stroke="#16A34A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 30V37L24 39L26 37V30" fill="#EA580C"/>
+</svg>

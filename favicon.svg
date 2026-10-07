@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <defs>
+    <linearGradient id="favHexGrad" x1="4" y1="4" x2="60" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+    <linearGradient id="favBgGrad" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+  </defs>
+
+  <!-- Deep rounded background square for crisp tab visibility -->
+  <rect width="64" height="64" rx="16" fill="url(#favBgGrad)" />
+
+  <!-- Outer Hexagon Badge (open on right) -->
+  <path d="M56 18L32 4L8 18V46L32 60L56 46" stroke="url(#favHexGrad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- Inner Hexagon Badge -->
+  <path d="M50 22L32 11L14 22V42L32 53L50 42" stroke="url(#favHexGrad)" stroke-width="1.8" stroke-opacity="0.85" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Central 4-node Cycle -->
+  <!-- Top Node: Gear (Cyan/Blue) -->
+  <g transform="translate(32, 21)">
+    <circle r="4.5" fill="#38BDF8" />
+    <circle r="2" fill="#0F172A" />
+    <path d="M-5.5 0H5.5 M0 -5.5V5.5 M-4 -4L4 4 M-4 4L4 -4" stroke="#38BDF8" stroke-width="1.6" stroke-linecap="round" />
+  </g>
+
+  <!-- Right Node: Dollar (Purple) -->
+  <g transform="translate(43, 32)">
+    <circle r="4.5" fill="#A855F7" />
+    <text x="0" y="2.5" font-family="system-ui, sans-serif" font-size="6.5" font-weight="900" fill="#FFFFFF" text-anchor="middle">$</text>
+  </g>
+
+  <!-- Bottom Node: Person (Purple-Indigo) -->
+  <g transform="translate(32, 43)">
+    <circle cx="0" cy="-2" r="2.2" fill="#818CF8" />
+    <path d="M-3.5 3.5C-3.5 0.8 3.5 0.8 3.5 3.5" stroke="#818CF8" stroke-width="2.2" stroke-linecap="round" />
+  </g>
+
+  <!-- Left Node: Bulb (Cyan) -->
+  <g transform="translate(21, 32)">
+    <circle r="3.2" fill="#22D3EE" />
+    <path d="M-1.8 3.5H1.8" stroke="#22D3EE" stroke-width="1.2" stroke-linecap="round" />
+  </g>
+
+  <!-- Clockwise Connecting Arrows -->
+  <!-- Top to Right -->
+  <path d="M37 23C40 25 42 27 42 28" stroke="#E2E8F0" stroke-width="1.2" stroke-linecap="round" fill="none" />
+  <!-- Right to Bottom -->
+  <path d="M41 37C40 39 37 41 36 41" stroke="#E2E8F0" stroke-width="1.2" stroke-linecap="round" fill="none" />
+  <!-- Bottom to Left -->
+  <path d="M27 41C24 39 22 37 22 36" stroke="#E2E8F0" stroke-width="1.2" stroke-linecap="round" fill="none" />
+  <!-- Left to Top -->
+  <path d="M23 27C24 25 27 23 28 23" stroke="#E2E8F0" stroke-width="1.2" stroke-linecap="round" fill="none" />
+</svg>

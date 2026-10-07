@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect width="48" height="48" rx="14" fill="#FDF4FF"/>
+  <!-- Folder Portfolio -->
+  <path d="M10 16C10 14.8954 10.8954 14 12 14H20L23 18H36C37.1046 18 38 18.8954 38 20V34C38 35.1046 37.1046 36 36 36H12C10.8954 36 10 35.1046 10 34V16Z" stroke="#9333EA" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Star showcase -->
+  <path d="M24 23L25.5 26.5L29 27L26.5 29.5L27 33L24 31.2L21 33L21.5 29.5L19 27L22.5 26.5Z" fill="#F59E0B"/>
+</svg>

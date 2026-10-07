@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect width="48" height="48" rx="14" fill="#ECFEFF"/>
+  <!-- Futuristic Telescope / Eye for Vision -->
+  <path d="M12 24C12 24 16 16 24 16C32 16 36 24 36 24C36 24 32 32 24 32C16 32 12 24 12 24Z" stroke="#0891B2" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="24" cy="24" r="5" stroke="#4F46E5" stroke-width="2"/>
+  <circle cx="24" cy="24" r="2" fill="#06B6D4"/>
+  <!-- Sparkles -->
+  <path d="M37 12L38 14L40 15L38 16L37 18L36 16L34 15L36 14Z" fill="#F59E0B"/>
+</svg>
