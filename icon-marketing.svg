@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
-  <rect width="48" height="48" rx="14" fill="#EEF2FF"/>
-  <!-- Megaphone / Digital Marketing Announcement -->
-  <path d="M12 28V20C12 18.8954 12.8954 18 14 18H18L28 12V36L18 30H14C12.8954 30 12 29.1046 12 28Z" stroke="#4F46E5" stroke-width="2.5" stroke-linejoin="round"/>
-  <path d="M33 19C35 21 36 23 36 24C36 25 35 27 33 29" stroke="#06B6D4" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M37 15C40 18 41 21 41 24C41 27 40 30 37 33" stroke="#06B6D4" stroke-width="2.5" stroke-linecap="round"/>
-  <path d="M18 30V36C18 37.1046 18.8954 38 20 38H22C23.1046 38 24 37.1046 24 36V30" stroke="#4F46E5" stroke-width="2.5" stroke-linejoin="round"/>
-</svg>
