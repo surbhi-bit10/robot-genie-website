@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
-  <rect width="48" height="48" rx="14" fill="#ECFEFF"/>
-  <!-- Trainer Avatar -->
-  <circle cx="24" cy="18" r="7" stroke="#0891B2" stroke-width="2.5"/>
-  <path d="M12 36C12 30.4772 16.4772 26 22 26H26C31.5228 26 36 30.4772 36 36" stroke="#0891B2" stroke-width="2.5" stroke-linecap="round"/>
-  <!-- Verified / AI Spark badge -->
-  <circle cx="34" cy="14" r="5" fill="#4F46E5"/>
-  <path d="M32 14L33.5 15.5L36.5 12.5" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
