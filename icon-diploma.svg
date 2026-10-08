@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
-  <rect width="48" height="48" rx="14" fill="#F0FDF4"/>
-  <!-- Diploma scroll and ribbon -->
-  <path d="M12 16C12 14.8954 12.8954 14 14 14H34C35.1046 14 36 14.8954 36 16V30C36 31.1046 35.1046 32 34 32H14C12.8954 32 12 31.1046 12 30V16Z" stroke="#16A34A" stroke-width="2.5"/>
-  <circle cx="24" cy="23" r="4" fill="#06B6D4"/>
-  <path d="M22 27L20 36L24 33L28 36L26 27" fill="#4F46E5"/>
-  <line x1="16" y1="19" x2="32" y2="19" stroke="#86EFAC" stroke-width="2" stroke-linecap="round"/>
-</svg>
